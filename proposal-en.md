@@ -55,3 +55,5 @@ During the test phase, all participants will complete 30 throws in the real-worl
 
 # Expected Questions
 - What is sensorimotor variability, and contextual variability?
+sensorimotor is about sensory and motor. In this case, sensorimotor variability is change in the visual dart trajectory, and participants' change in motor function.
+Contextual interference involves mixing up your practice structure, either by adding different tasks and/or adding practice variability when learning a skill.
