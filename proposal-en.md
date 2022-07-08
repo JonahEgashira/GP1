@@ -1,8 +1,7 @@
 # Abstract
-効率的な練習は大事。
-VEを使えば様々な条件下で練習をすることができ、運動学習の保持に貢献する可能性がある。
-本研究では、HMDをVEとして、complex motor skill のlearning中にノイズを加えることで、motor leaning のtransferとretention が
-実世界に促進されるかを調査する。
+It is imperative to determine what kinds of practice methods are effective in improving motor skills, not only to apply them to sports but also to understand the relationship between the brain and motor learning.
+Increased sensorimotor variability can strengthen motor skills, while virtual environments can provide immersive and flexible learning environment.
+This resaerch will examine whether inducing variability in virtual environment can enhance transfer and retention of complex motor skills to real-world.
 
 # Background
 ## Virtual Environment as a Training Platform
