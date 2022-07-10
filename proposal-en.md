@@ -24,9 +24,9 @@ Does motor learning in VEs transfer to real environment, and does increasing var
 
 # Approach
 ## Using Noise in VE learning
-Darts will be used as a motor learning task in this research.
-In order to test if inducing variability in VE can strengthen motor skill transfer and retention in the real-world, sensorimotor noise will be added to dart throws. 
-For the virtual dart setting, Meta Quest 2 will be used as a HMD, and the dart throwing environment will be implemented by Unity. 
+Golf putt will be used as a motor learning task in this research.
+In order to test if inducing variability in VE can strengthen motor skill transfer and retention in the real-world, sensorimotor noise will be added to golf putting. 
+For the virtual dart setting, Meta Quest 2 will be used as a HMD, and the golf putting environment will be implemented by Unity. 
 
 ## Noise Implementation
 The trajectory of a dart is determined by release point, velocity, and the magnitude of gravity. Noise will be added by changing the velocity of the dart in VE. 
